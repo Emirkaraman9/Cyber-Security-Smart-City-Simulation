@@ -74,6 +74,7 @@ Run the Application:
 
 Bash
 python main.py
+
 🛡️ Security & Simulation Note
 This project includes a Defense Simulation module.
 
