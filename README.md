@@ -1,86 +1,167 @@
-🏦 DigiBank - Smart City & Digital Banking Automation
-DigiBank is a comprehensive simulation platform that integrates Digital Banking with Smart City Infrastructure Management. This project demonstrates a hybrid system where urban automation (IoT simulation) meets secure financial transactions (Fiat/Crypto) under a secure, monitored environment.
+# 🏦 DigiBank – Smart City & Digital Banking Automation
 
-Designed as a university project for Cyber Security & Big Data, focusing on secure software architecture, design patterns, and real-time monitoring.
+DigiBank is a hybrid simulation platform that integrates **Digital Banking Systems** with **Smart City Infrastructure Management**.  
+The project demonstrates how urban automation (IoT simulation) can coexist with secure financial transactions (Fiat & Crypto) in a monitored and protected environment.
 
-🚀 Features
-🔐 1. Admin Panel (City Controller)
-System Monitoring: Real-time tracking of CPU & RAM usage (simulated Server Health).
+Developed as a university project for **Cyber Security & Big Data**, focusing on:
 
-Cyber Security Module:
+- Secure software architecture  
+- Object-Oriented Design  
+- Design Patterns  
+- Real-time system monitoring  
+- Attack & defense simulations  
 
-Attack Simulation: "Cyber Attack Alarm" triggers threaded email alerts and logs.
+---
 
-Defense Mechanism: "System Restore" functionality to normalize operations.
+## 🚀 Features
 
-User Management: Add/Remove/Search users via Text File (TXT) and Database integration.
+### 🔐 1. Admin Panel – City Controller
 
-Automation: Control city infrastructure (e.g., Street Lights, Traffic Signals).
+**System Monitoring**
+- Real-time CPU & RAM usage tracking (Simulated Server Health)
 
-👤 2. User Panel (Resident)
-Secure Login: Credential verification system.
+**Cyber Security Module**
+- 🚨 Attack Simulation  
+  - “Cyber Attack Alarm” triggers threaded email alerts  
+  - Automatic logging system  
+- 🛡 Defense Mechanism  
+  - “System Restore” to normalize operations  
 
-Digital Wallet:
+**User Management**
+- Add / Remove / Search users  
+- TXT file + Database integration  
 
-View Balance.
+**Smart City Automation**
+- Control city infrastructure  
+  - Street lights  
+  - Traffic signals  
 
-Money Transfer: Send Fiat currency via IBAN or Cryptocurrency (BTC/ETH).
+---
 
-Smart City Services:
+### 👤 2. User Panel – Resident
 
-Pay Utility Bills (Electricity, Water, Parking).
+**Secure Authentication**
+- Credential verification system
 
-Smart Home: Trigger home automation routines (e.g., "Night Mode").
+**Digital Wallet**
+- View balance  
+- Money transfer  
+  - Fiat via IBAN  
+  - Cryptocurrency (BTC / ETH simulation)
 
-Transaction History: View personal logs and past activities.
+**Smart City Services**
+- Pay utility bills  
+  - Electricity  
+  - Water  
+  - Parking  
+- Smart Home automation  
+  - Example: “Night Mode”
 
-🛠️ Technical Architecture
-This project is built using Python and follows strict Object-Oriented Programming (OOP) principles. It implements several software design patterns to ensure scalability and maintainability.
+**Transaction History**
+- Personal logs  
+- Past activities  
 
-🏗️ Design Patterns Used:
-Singleton Pattern: Ensures a single database connection instance throughout the lifecycle.
+---
 
-Factory Pattern: efficient creation of User and Admin objects based on login type.
+## 🛠 Technical Architecture
 
-Observer Pattern: Used for the Logging System to notify the Admin and write to logs.txt upon critical events (Security Alarms).
+The project is developed with **Python** following strict **Object-Oriented Programming (OOP)** principles and modular architecture.
 
-💻 Tech Stack:
-Language: Python 3.x
+### 🧩 Design Patterns Implemented
 
-GUI: CustomTkinter (Modern UI) / Tkinter
+- **Singleton Pattern**  
+  - Ensures a single database connection instance throughout the lifecycle
 
-Database: SQLite (Local relational DB)
+- **Factory Pattern**  
+  - Efficient creation of User and Admin objects based on login type
 
-System Tools: psutil (for resource monitoring), threading (for non-blocking alarms), smtplib (for email alerts).
+- **Observer Pattern**  
+  - Logging system notifies Admin and writes to logs.txt upon critical events (Security Alarms)
 
-📸 Screenshots
-(You can add screenshots of your GUI here)
+---
 
-Place your screenshots in a folder named screenshots and link them here.
+## 💻 Tech Stack
 
-⚙️ Installation & Usage
-Clone the repository:
+- **Language:** Python 3.x  
+- **GUI:** CustomTkinter / Tkinter  
+- **Database:** SQLite  
+- **Monitoring:** psutil  
+- **Multithreading:** threading  
+- **Email Alerts:** smtplib  
 
-Bash
-git clone [https://github.com/Emirkaraman9/digibank-smart-city.git](https://github.com/Emirkaraman9/digibank-smart-city.git)
+---
+
+## 📸 Screenshots
+
+Place your screenshots inside the `/screenshots` folder and link them here.
+
+Example structure:
+
+/screenshots  
+   ├── login.png  
+   ├── admin_panel.png  
+   └── user_panel.png  
+
+---
+
+## ⚙ Installation & Usage
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Emirkaraman9/digibank-smart-city.git
 cd digibank-smart-city
-Install required libraries:
+```
 
-Bash
+### 2. Install dependencies
+
+```bash
 pip install -r requirements.txt
-(Note: You mainly need customtkinter and psutil)
+```
 
-Run the Application:
+Required libraries:
+- customtkinter  
+- psutil  
 
-Bash
+### 3. Run the application
+
+```bash
 python main.py
+```
 
-🛡️ Security & Simulation Note
-This project includes a Defense Simulation module.
+---
 
-The "Cyber Attack" button simulates a breach scenario to test the logging and notification threads.
+## 🛡 Security & Simulation Notes
 
-Java Attack Bot: A separate Java-based tool (included in /tools) was developed to perform stress testing (HTTP Flood simulation) on the system to observe load handling.
+This project includes a **Defense Simulation Module**.
 
-📝 License
-This project is developed for educational purposes.
+- The “Cyber Attack” button simulates a breach scenario  
+- Used to test:
+  - Logging system  
+  - Notification threads  
+  - System resilience  
+
+### 🧪 Stress Testing
+
+- A separate **Java Attack Bot** is included in `/tools`  
+- Performs HTTP Flood simulation  
+- Used to observe:
+  - Load handling  
+  - Thread stability  
+  - Monitoring behavior  
+
+---
+
+## 🧠 Project Goals
+
+- Demonstrate secure software design  
+- Combine Smart City + FinTech concepts  
+- Implement design patterns in real scenario  
+- Build cyber-attack awareness  
+- Practice multi-threaded architecture  
+
+---
+
+## 📝 License
+
+This project was developed for **educational purposes only**.
