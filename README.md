@@ -1,3 +1,5 @@
+<img width="2816" height="1536" alt="Gemini_Generated_Image_xc9p3oxc9p3oxc9p" src="https://github.com/user-attachments/assets/2f94a393-35e5-428d-9b25-5c61add578e8" />
+
 # 🏦 DigiBank – Smart City & Digital Banking Automation
 
 DigiBank is a hybrid simulation platform that integrates **Digital Banking Systems** with **Smart City Infrastructure Management**.  
