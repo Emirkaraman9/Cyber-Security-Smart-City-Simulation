@@ -62,7 +62,7 @@ Place your screenshots in a folder named screenshots and link them here.
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/digibank-smart-city.git
+git clone [https://github.com/Emirkaraman9/digibank-smart-city.git](https://github.com/Emirkaraman9/digibank-smart-city.git)
 cd digibank-smart-city
 Install required libraries:
 
