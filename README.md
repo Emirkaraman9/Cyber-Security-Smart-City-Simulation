@@ -94,7 +94,6 @@ The project is developed with **Python** following strict **Object-Oriented Prog
 ## 📸 Screenshots
 
 <img width="1377" height="801" alt="Ana Giriş Ekranı" src="https://github.com/user-attachments/assets/50d4bc4b-4815-4261-a34d-e27e9bc00a80" />
-<img width="432" height="526" alt="Kullanıcı Giriş Ekranı 1" src="https://github.com/user-attachments/assets/d3739c36-5b81-4098-aca5-1f7e347d50f2" />
 <img width="876" height="602" alt="Kullanıcı Giriş Ekranı" src="https://github.com/user-attachments/assets/e442002e-f40c-430b-bf37-a4ef3fedf77b" />
 <img width="1882" height="812" alt="Kullanıcı Panel Ekranı" src="https://github.com/user-attachments/assets/4fa33c0c-e257-4121-a309-54c1da0294fb" />
 <img width="426" height="283" alt="Üye Arama Ekranı" src="https://github.com/user-attachments/assets/4f161b09-7385-452e-a523-ae02921b46c9" />
