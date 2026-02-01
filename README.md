@@ -1,4 +1,4 @@
-<img width="2816" height="1536" alt="Gemini_Generated_Image_xc9p3oxc9p3oxc9p" src="https://github.com/user-attachments/assets/2f94a393-35e5-428d-9b25-5c61add578e8" />
+![Smart City](https://github.com/user-attachments/assets/0f66daa5-564e-4fd4-9a92-c98a5ea9474e)
 
 # 🏦 DigiBank – Smart City & Digital Banking Automation
 
