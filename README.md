@@ -92,15 +92,13 @@ The project is developed with **Python** following strict **Object-Oriented Prog
 ---
 
 ## 📸 Screenshots
-
-<img width="1377" height="801" alt="Ana Giriş Ekranı" src="https://github.com/user-attachments/assets/50d4bc4b-4815-4261-a34d-e27e9bc00a80" />
-<img width="876" height="602" alt="Kullanıcı Giriş Ekranı" src="https://github.com/user-attachments/assets/e442002e-f40c-430b-bf37-a4ef3fedf77b" />
-<img width="1882" height="812" alt="Kullanıcı Panel Ekranı" src="https://github.com/user-attachments/assets/4fa33c0c-e257-4121-a309-54c1da0294fb" />
-<img width="426" height="283" alt="Üye Arama Ekranı" src="https://github.com/user-attachments/assets/4f161b09-7385-452e-a523-ae02921b46c9" />
-<img width="520" height="427" alt="Üye Ekleme Ekranı" src="https://github.com/user-attachments/assets/cf54a458-2101-4c32-8bef-b95efe31d10a" />
-<img width="1197" height="831" alt="Yönetici giriş ekranı " src="https://github.com/user-attachments/assets/64f13a20-f424-416e-a27f-609c6ea5e52b" />
-<img width="430" height="518" alt="Yönetici Giriş Ekranı 1" src="https://github.com/user-attachments/assets/3cc978fd-a302-4d42-8327-544c7f348407" />
-<img width="1880" height="851" alt="Yönetici Paneli 2" src="https://github.com/user-attachments/assets/fb297a5e-e51a-43d3-b8b7-dfdfd58e8582" />
+<img width="550" height="542" alt="DigiBank Giriş Ekranı" src="https://github.com/user-attachments/assets/87e25d8f-555e-471f-92ec-f37189657944" />
+<img width="487" height="641" alt="DigiBank Yönetici Giriş Ekranı" src="https://github.com/user-attachments/assets/989fe471-f4a7-46a2-99b5-78a3171aa097" />
+<img width="1427" height="901" alt="Üye Arama Ekranı" src="https://github.com/user-attachments/assets/f6389251-e4f1-4cd8-a4e6-7faf171a8eeb" />
+<img width="1210" height="901" alt="Üye Ekleme Ekranı" src="https://github.com/user-attachments/assets/5836d18c-21c1-467b-8698-c168805ec79d" />
+<img width="1201" height="890" alt="Yönetici Ekranı" src="https://github.com/user-attachments/assets/8b40d8dd-21e0-42e5-b04f-3b402cd45a5b" />
+<img width="488" height="577" alt="Kullanıcı Giriş Ekranı" src="https://github.com/user-attachments/assets/366f0ba3-8a6a-412d-952c-5e43e2aedc6d" />
+<img width="753" height="847" alt="kullanıcıgiriş" src="https://github.com/user-attachments/assets/58e658d1-4ecd-4378-81ae-bbe3162c8fed" />
 
 
 
