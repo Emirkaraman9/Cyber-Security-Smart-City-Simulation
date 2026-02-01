@@ -57,3 +57,29 @@ System Tools: psutil (for resource monitoring), threading (for non-blocking alar
 (You can add screenshots of your GUI here)
 
 Place your screenshots in a folder named screenshots and link them here.
+
+⚙️ Installation & Usage
+Clone the repository:
+
+Bash
+git clone https://github.com/yourusername/digibank-smart-city.git
+cd digibank-smart-city
+Install required libraries:
+
+Bash
+pip install -r requirements.txt
+(Note: You mainly need customtkinter and psutil)
+
+Run the Application:
+
+Bash
+python main.py
+🛡️ Security & Simulation Note
+This project includes a Defense Simulation module.
+
+The "Cyber Attack" button simulates a breach scenario to test the logging and notification threads.
+
+Java Attack Bot: A separate Java-based tool (included in /tools) was developed to perform stress testing (HTTP Flood simulation) on the system to observe load handling.
+
+📝 License
+This project is developed for educational purposes.
